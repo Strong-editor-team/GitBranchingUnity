@@ -2,7 +2,7 @@
 
 Ветвление Git при использовании Unity.
 
-![example](image.png)
+![example](assets/image.png)
 
 ### Структура Pull Request'ов:
 
@@ -21,8 +21,8 @@
   - `refact` - рефакторинг кода.
   - есть и другие labels, но они созданы для Issues и не должны использоваться в Pull Request'ах.
 
-![PR1](PR1.png)
-![PR2](PR2.png)
+![PR1](assets/PR1.png)
+![PR2](assets/PR2.png)
 
 После создания Pull Request'а один из Reviewer'ов по возможности проверит данный Pull Request. Если всё хорошо, то данный reviewer подтверждает (approve) изменения и мёрджит их в основную ветку. Но также Reviewer может оставить комментарий в случае если ему что то не понравилось, это включает:
 - Код не соответствует [правилам написания кода](https://github.com/Strong-editor-team/CodeStyle).
